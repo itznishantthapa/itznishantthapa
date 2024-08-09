@@ -8,20 +8,34 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itznishantthapa&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="itznishantthapa" />
-</p>
+  <p align="center">
+  <a href="https://github.com/itznishantthapa">
+    <img src="https://komarev.com/ghpvc/?username=itznishantthapa&label=Profile%20views&color=brightgreen&style=for-the-badge" 
+         alt="itznishantthapa" 
+         width="300" 
+         style="filter: drop-shadow(0px 0px 10px #39FF14); animation: pulse 2s infinite;" />
+  </a>
 
 
-<!-- Learning Section -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React JS" />
-</p>
 
 <!-- Expertise Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+       alt="React JS" 
+       width="100" 
+       style="filter: drop-shadow(0px 0px 10px #61DAFB); animation: glow 1.5s infinite alternate;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+       alt="Java" 
+       width="100" 
+       style="filter: drop-shadow(0px 0px 10px #007396); animation: glow 1.5s infinite alternate;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+       alt="Python" 
+       width="100" 
+       style="filter: drop-shadow(0px 0px 10px #3776AB); animation: glow 1.5s infinite alternate;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+       alt="JavaScript" 
+       width="100" 
+       style="filter: drop-shadow(0px 0px 10px #F7DF1E); animation: glow 1.5s infinite alternate;" />
 </p>
 
 <!-- Contact Section -->
