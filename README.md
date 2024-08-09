@@ -1,87 +1,25 @@
-<!-- Header Section -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/YOUR_GITHUB_USERNAME">Your Name</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<h3 align="center">A passionate developer from [Your Location]</h3>
-
-<!-- Badges Section -->
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=social" alt="GitHub Stars">
-  </a>
-</p>
-
-<!-- Intro Section -->
-## 👨‍💻 About Me
-
-- 🔭 I’m currently working on **[Your Project Name](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO)**
-- 🌱 I’m currently learning **[Your Learning Topic]**
-- 👯 I’m looking to collaborate on **[Your Collaboration Interests]**
-- 🤔 I’m looking for help with **[Your Help Request]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me **[Your Email or Contact Info]**
-- ⚡ Fun fact **[Something Interesting About You]**
-
-<!-- Tech Stack Section -->
-## 🚀 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-
-### Frameworks
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
-
-<!-- GitHub Stats Section -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
-</p>
-
-<!-- Top Languages Section -->
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
-</p>
-
-<!-- Contribution Graph Section -->
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<!-- Contact Section -->
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
-    <img src="https://img.shields.io/badge/-@YOUR_TWITTER_USERNAME-1ca0f1?style=flat&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/-YOUR_NAME-0077B5?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-your.email@example.com-D14836?style=flat&logo=Gmail&logoColor=white" />
-  </a>
-</p>
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<!-- Footer Section -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square" alt="Profile Views" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itznishantthapa&label=Profile%20views&color=0e75b6&style=flat" alt="itznishantthapa" /> </p>
+
+- 🌱 I’m currently learning **React Js**
+
+- 💬 Ask me about **Java, Python and Javascript**
+
+- 📫 How to reach me **itsnishantu@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/itznishantthapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itznishantthapa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thapanishant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thapanishant" height="30" width="40" /></a>
+<a href="https://instagram.com/itznishantthapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itznishantthapa" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+![Snake animation Contribution Graph](https://github.com/itznishantthapa/itznishantthapa/blob/main/gridSnake.svg)
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Get me the coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Get me the coffee" /></a></p><br><br>
